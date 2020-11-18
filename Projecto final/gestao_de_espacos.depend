@@ -1,0 +1,377 @@
+# depslib dependency file v1.0
+1370566392 source:c:\users\rui rock\desktop\gestao_de_espacos\consultas.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<math.h>
+	<ctype.h>
+	"consultas.h"
+	"funcoes.h"
+	"ficheiros.h"
+	"reservar.h"
+	"estruturas_dados.h"
+	"cancelar.h"
+
+1370558433 c:\users\rui rock\desktop\gestao_de_espacos\consultas.h
+	"estruturas_dados.h"
+
+1370565520 c:\users\rui rock\desktop\gestao_de_espacos\estruturas_dados.h
+
+1370558469 c:\users\rui rock\desktop\gestao_de_espacos\funcoes.h
+	"estruturas_dados.h"
+
+1370558482 c:\users\rui rock\desktop\gestao_de_espacos\ficheiros.h
+	"estruturas_dados.h"
+
+1370558446 c:\users\rui rock\desktop\gestao_de_espacos\reservar.h
+	"estruturas_dados.h"
+
+1370558418 c:\users\rui rock\desktop\gestao_de_espacos\cancelar.h
+	"estruturas_dados.h"
+
+1370566091 source:c:\users\rui rock\desktop\gestao_de_espacos\ficheiros.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"ficheiros.h"
+	"funcoes.h"
+	"estruturas_dados.h"
+
+1370565688 source:c:\users\rui rock\desktop\gestao_de_espacos\funcoes.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<math.h>
+	<ctype.h>
+	"funcoes.h"
+	"estruturas_dados.h"
+
+1370558682 source:c:\users\rui rock\desktop\gestao_de_espacos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<math.h>
+	<ctype.h>
+	"estruturas_dados.h"
+	"ficheiros.h"
+	"cancelar.h"
+	"funcoes.h"
+	"consultas.h"
+	"reservar.h"
+
+1370566383 source:c:\users\rui rock\desktop\gestao_de_espacos\reservar.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<math.h>
+	<ctype.h>
+	"reservar.h"
+	"funcoes.h"
+	"ficheiros.h"
+
+1370566420 source:c:\users\rui rock\desktop\gestao_de_espacos\cancelar.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"cancelar.h"
+	"funcoes.h"
+	"reservar.h"
+	"estruturas_dados.h"
+
+1370577609 source:c:\users\emanuel\desktop\gestao_de_espacos\cancelar.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"cancelar.h"
+	"funcoes.h"
+	"reservar.h"
+	"estruturas_dados.h"
+
+1370558420 c:\users\emanuel\desktop\gestao_de_espacos\cancelar.h
+	"estruturas_dados.h"
+
+1370565522 c:\users\emanuel\desktop\gestao_de_espacos\estruturas_dados.h
+
+1370577577 c:\users\emanuel\desktop\gestao_de_espacos\funcoes.h
+	"estruturas_dados.h"
+
+1370558448 c:\users\emanuel\desktop\gestao_de_espacos\reservar.h
+	"estruturas_dados.h"
+
+1370624537 source:c:\users\emanuel\desktop\gestao_de_espacos\consultas.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<math.h>
+	<ctype.h>
+	"consultas.h"
+	"funcoes.h"
+	"ficheiros.h"
+	"reservar.h"
+	"estruturas_dados.h"
+	"cancelar.h"
+
+1370558434 c:\users\emanuel\desktop\gestao_de_espacos\consultas.h
+	"estruturas_dados.h"
+
+1370622087 c:\users\emanuel\desktop\gestao_de_espacos\ficheiros.h
+	"estruturas_dados.h"
+
+1370622096 source:c:\users\emanuel\desktop\gestao_de_espacos\ficheiros.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"ficheiros.h"
+	"funcoes.h"
+	"estruturas_dados.h"
+
+1370577674 source:c:\users\emanuel\desktop\gestao_de_espacos\funcoes.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<math.h>
+	<ctype.h>
+	"funcoes.h"
+	"estruturas_dados.h"
+
+1370622087 source:c:\users\emanuel\desktop\gestao_de_espacos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<math.h>
+	<ctype.h>
+	"estruturas_dados.h"
+	"ficheiros.h"
+	"cancelar.h"
+	"funcoes.h"
+	"consultas.h"
+	"reservar.h"
+
+1370577688 source:c:\users\emanuel\desktop\gestao_de_espacos\reservar.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<math.h>
+	<ctype.h>
+	"reservar.h"
+	"funcoes.h"
+	"ficheiros.h"
+
+1370577609 source:c:\users\fmlp\desktop\gestao_de_espacos - cópia\cancelar.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"cancelar.h"
+	"funcoes.h"
+	"reservar.h"
+	"estruturas_dados.h"
+
+1370558420 c:\users\fmlp\desktop\gestao_de_espacos - cópia\cancelar.h
+	"estruturas_dados.h"
+
+1370565522 c:\users\fmlp\desktop\gestao_de_espacos - cópia\estruturas_dados.h
+
+1370577577 c:\users\fmlp\desktop\gestao_de_espacos - cópia\funcoes.h
+	"estruturas_dados.h"
+
+1370558448 c:\users\fmlp\desktop\gestao_de_espacos - cópia\reservar.h
+	"estruturas_dados.h"
+
+1370643776 source:c:\users\fmlp\desktop\gestao_de_espacos - cópia\consultas.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<math.h>
+	<ctype.h>
+	"consultas.h"
+	"funcoes.h"
+	"ficheiros.h"
+	"reservar.h"
+	"estruturas_dados.h"
+	"cancelar.h"
+
+1370558434 c:\users\fmlp\desktop\gestao_de_espacos - cópia\consultas.h
+	"estruturas_dados.h"
+
+1370622087 c:\users\fmlp\desktop\gestao_de_espacos - cópia\ficheiros.h
+	"estruturas_dados.h"
+
+1370622096 source:c:\users\fmlp\desktop\gestao_de_espacos - cópia\ficheiros.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"ficheiros.h"
+	"funcoes.h"
+	"estruturas_dados.h"
+
+1370643816 source:c:\users\fmlp\desktop\gestao_de_espacos - cópia\funcoes.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<math.h>
+	<ctype.h>
+	"funcoes.h"
+	"estruturas_dados.h"
+
+1370622087 source:c:\users\fmlp\desktop\gestao_de_espacos - cópia\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<math.h>
+	<ctype.h>
+	"estruturas_dados.h"
+	"ficheiros.h"
+	"cancelar.h"
+	"funcoes.h"
+	"consultas.h"
+	"reservar.h"
+
+1370577688 source:c:\users\fmlp\desktop\gestao_de_espacos - cópia\reservar.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<math.h>
+	<ctype.h>
+	"reservar.h"
+	"funcoes.h"
+	"ficheiros.h"
+
+1370645917 source:c:\users\emanuel\desktop\projecto final\cancelar.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"cancelar.h"
+	"consultas.h"
+	"estruturas_dados.h"
+	"ficheiros.h"
+	"funcoes.h"
+	"reservar.h"
+
+1370645917 c:\users\emanuel\desktop\projecto final\cancelar.h
+	"consultas.h"
+	"estruturas_dados.h"
+	"ficheiros.h"
+	"funcoes.h"
+	"reservar.h"
+
+1370565522 c:\users\emanuel\desktop\projecto final\estruturas_dados.h
+
+1370645917 c:\users\emanuel\desktop\projecto final\funcoes.h
+	"cancelar.h"
+	"consultas.h"
+	"estruturas_dados.h"
+	"ficheiros.h"
+	"reservar.h"
+
+1370645917 c:\users\emanuel\desktop\projecto final\reservar.h
+	"cancelar.h"
+	"consultas.h"
+	"estruturas_dados.h"
+	"ficheiros.h"
+	"funcoes.h"
+
+1370646426 source:c:\users\emanuel\desktop\projecto final\consultas.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<math.h>
+	<ctype.h>
+	"cancelar.h"
+	"consultas.h"
+	"estruturas_dados.h"
+	"ficheiros.h"
+	"funcoes.h"
+	"reservar.h"
+
+1370645917 c:\users\emanuel\desktop\projecto final\consultas.h
+	"cancelar.h"
+	"estruturas_dados.h"
+	"ficheiros.h"
+	"funcoes.h"
+	"reservar.h"
+
+1370645917 c:\users\emanuel\desktop\projecto final\ficheiros.h
+	"cancelar.h"
+	"consultas.h"
+	"estruturas_dados.h"
+	"funcoes.h"
+	"reservar.h"
+
+1370645917 source:c:\users\emanuel\desktop\projecto final\ficheiros.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"cancelar.h"
+	"consultas.h"
+	"estruturas_dados.h"
+	"ficheiros.h"
+	"funcoes.h"
+	"reservar.h"
+
+1370645917 source:c:\users\emanuel\desktop\projecto final\funcoes.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<math.h>
+	<ctype.h>
+	"cancelar.h"
+	"consultas.h"
+	"estruturas_dados.h"
+	"ficheiros.h"
+	"funcoes.h"
+	"reservar.h"
+
+1370645917 source:c:\users\emanuel\desktop\projecto final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<math.h>
+	<ctype.h>
+	"cancelar.h"
+	"consultas.h"
+	"estruturas_dados.h"
+	"ficheiros.h"
+	"funcoes.h"
+	"reservar.h"
+
+1370645917 source:c:\users\emanuel\desktop\projecto final\reservar.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<math.h>
+	<ctype.h>
+	"cancelar.h"
+	"consultas.h"
+	"estruturas_dados.h"
+	"ficheiros.h"
+	"funcoes.h"
+	"reservar.h"
+
